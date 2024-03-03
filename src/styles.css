@@ -1,3 +1,7 @@
 .icon {
   max-width: 60px;
 }
+.cronut {
+  max-width: 360px;
+  display: block;
+}
