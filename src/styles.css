@@ -5,3 +5,31 @@
   max-width: 360px;
   display: block;
 }
+.selection {
+  max-width: 700px;
+  display: block;
+}
+.ingredients {
+  max-width: 800px;
+  display: block;
+}
+.kipferl {
+  max-width: 540px;
+  display: block;
+}
+.jim-chevallier {
+  max-width: 400px;
+  display: block;
+}
+.marie-antoinette {
+  max-width: 400px;
+  display: block;
+}
+.cuisine-book {
+  max-width: 500px;
+  display: block;
+}
+.yakitate {
+  max-width: 300px;
+  display: block;
+}
