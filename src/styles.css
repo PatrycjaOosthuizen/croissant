@@ -1,35 +1,44 @@
 .icon {
   max-width: 60px;
 }
-.cronut {
-  max-width: 360px;
-  display: block;
+.kipferl {
+  max-width: 400px;
+}
+.zang {
+  max-width: 400px;
 }
 .selection {
-  max-width: 700px;
-  display: block;
-}
-.ingredients {
-  max-width: 800px;
-  display: block;
-}
-.kipferl {
-  max-width: 540px;
-  display: block;
+  max-width: 400px;
 }
 .jim-chevallier {
-  max-width: 400px;
-  display: block;
+  max-width: 350px;
 }
 .marie-antoinette {
-  max-width: 400px;
-  display: block;
+  max-width: 350px;
 }
 .cuisine-book {
-  max-width: 500px;
-  display: block;
+  max-width: 400px;
 }
+
+.layers {
+  max-width: 500px;
+}
+.ingredients {
+  max-width: 500px;
+}
+.cronut {
+  max-width: 360px;
+}
+
 .yakitate {
-  max-width: 300px;
-  display: block;
+  max-width: 350px;
+}
+footer {
+  margin-top: 50px;
+  text-align: center;
+}
+@media (max-width: 800px) {
+  img {
+    width: 100%;
+  }
 }
