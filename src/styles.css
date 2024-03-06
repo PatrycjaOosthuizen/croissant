@@ -33,10 +33,7 @@
 .yakitate {
   max-width: 350px;
 }
-footer {
-  margin-top: 50px;
-  text-align: center;
-}
+
 @media (max-width: 800px) {
   img {
     width: 100%;
